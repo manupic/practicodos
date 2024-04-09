@@ -13,7 +13,7 @@ namespace Ejercicio5_TP2
                 // Solicitar al usuario que ingrese un caracter
                 Console.WriteLine("Ingrese una letra o número (escriba 'exit' para salir):");
                 // Leer la entrada del usuario
-                entrada = Console.ReadLine(); // Corregir aquí: quitar la declaración de la variable "string entrada"
+                entrada = Console.ReadLine();
 
                 // Verificar si la entrada no es "exit"
                 if (entrada != "exit")

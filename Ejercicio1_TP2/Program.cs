@@ -5,40 +5,37 @@
         static void Main(string[] args)
         {
             // Solicitar al usuario que ingrese un número
-            Console.WriteLine("Ingrese un número:");
+            Console.WriteLine("Ingrese un número mayor a 9:");
             // Leer la entrada del usuario y guardarla como una cadena
             string numeroStr = Console.ReadLine();
-
+            
             // Verificar si la entrada es un número válido
-            if (EsNumero(numeroStr))
-            {
+            if(EsNumero(numeroStr)){
                 // Si es válido, invertir el número y mostrar el resultado
                 string numeroInvertido = InvertirNumero(numeroStr);
                 Console.WriteLine($"El número invertido es: {numeroInvertido}");
-            }
-            else
-            {
+            }else{
                 // Si no es válido, mostrar un mensaje de error
-                Console.WriteLine("Por favor ingrese un número válido.");
+                Console.WriteLine("Por favor ingrese un número válido mayor a 9.");
             }
         }
 
         // Función para verificar si una cadena contiene solo dígitos
-        static bool EsNumero(string str)
-        {
-            foreach (char c in str)
-            {
+        static bool EsNumero(string str){
+            foreach (char c in str){
                 // Verificar si cada caracter de la cadena es un dígito
                 if (!Char.IsDigit(c))
                     return false;
             }
+            // Verificar que el numero sea de dos o más dígitos
+            if (Convert.ToInt32(str) < 9)
+                return false;
             // Si todos los caracteres son dígitos, devolver verdadero
             return true;
         }
 
         // Función para invertir una cadena
-        static string InvertirNumero(string numero)
-        {
+        static string InvertirNumero(string numero){
             // Convertir la cadena en un arreglo de caracteres
             char[] numeroArray = numero.ToCharArray();
             // Invertir el arreglo de caracteres
