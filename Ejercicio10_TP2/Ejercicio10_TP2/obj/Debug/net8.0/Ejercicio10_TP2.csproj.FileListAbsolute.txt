@@ -1,0 +1,15 @@
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\bin\Debug\net8.0\Ejercicio10_TP2.exe
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\bin\Debug\net8.0\Ejercicio10_TP2.deps.json
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\bin\Debug\net8.0\Ejercicio10_TP2.runtimeconfig.json
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\bin\Debug\net8.0\Ejercicio10_TP2.dll
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\bin\Debug\net8.0\Ejercicio10_TP2.pdb
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\Ejercicio10_TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\Ejercicio10_TP2.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\Ejercicio10_TP2.AssemblyInfo.cs
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\Ejercicio10_TP2.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\Ejercicio10_TP2.sourcelink.json
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\Ejercicio10_TP2.dll
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\refint\Ejercicio10_TP2.dll
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\Ejercicio10_TP2.pdb
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\Ejercicio10_TP2.genruntimeconfig.cache
+C:\Users\Emanuel\Desktop\Manu\Programacion 3\tp2\Ejercicio10_TP2\Ejercicio10_TP2\obj\Debug\net8.0\ref\Ejercicio10_TP2.dll
