@@ -75,11 +75,13 @@
                     Console.WriteLine("Ingrese el nro: ");
                     str_nro_a = Console.ReadLine();                    
                     nro_a = Convert.ToInt32(str_nro_a);
-                    
-                    for (int i = 1; i <= nro_a; i++) 
-                    {                        
-                        resultado *= i;
+                    int index = 1;
+                    do
+                    {
+                        resultado *= index;
+                        index++;
                     }
+                    while (index <= nro_a);
 
                     Console.WriteLine($"El factorial de {nro_a} es: {resultado}");
 
