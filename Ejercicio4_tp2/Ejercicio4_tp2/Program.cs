@@ -22,7 +22,7 @@
             Console.WriteLine(" 15 - Nro minimo");
 
             string entrada_str = Console.ReadLine();
-            int entrada = Convert.ToInt32(entrada_str);
+            byte entrada = Convert.ToByte(entrada_str);
             string str_nro_a;
             string str_nro_b;
             int nro_a, nro_b;

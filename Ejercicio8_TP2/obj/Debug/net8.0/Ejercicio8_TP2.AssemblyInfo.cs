@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio8_TP2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8757f226908e732e93064758e2ef55c47250df04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b8ace2fa90b4b14e655a3aab2f7245fbe89519e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio8_TP2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio8_TP2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
